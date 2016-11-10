@@ -6,4 +6,3 @@ git clone git@github.com:rLoopTeam/eng-software-pod.git .
 
 2. Add the repo under Git_desktop (+) -> ADD -> Choose Path
 
-
